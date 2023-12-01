@@ -12,7 +12,5 @@ public class App {
         System.out.println(tv);
         System.out.println(tv.valueInStock());
         tv.removeQuantity(32);
-       
-
     }
 }
